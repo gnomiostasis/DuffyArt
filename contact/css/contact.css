@@ -1,0 +1,27 @@
+﻿#splashbackground {
+    background-image:url("/DATA/IMAGES/workingshirtless.jpg");
+}
+
+body {
+    background-color: rgba(153, 173, 206, 1);
+}
+
+.card {
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(255,255,255,.75);
+}
+
+.card i {
+    font-size: 10em;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+@media (max-width: 992px) {
+    .card {
+        max-height: 25%
+    }
+}

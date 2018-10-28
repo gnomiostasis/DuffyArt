@@ -1,5 +1,5 @@
 ﻿body {
-overflow-x: hidden;
+    overflow-x: hidden;
 }
 #splashbackground {
     z-index: -1;
@@ -12,7 +12,7 @@ overflow-x: hidden;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("../DATA/IMAGES/smokinglady.jpg");
+    background-image: url("/DATA/IMAGES/smokinglady-min.jpg");
 }
 
 

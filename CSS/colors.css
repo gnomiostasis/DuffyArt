@@ -1,0 +1,51 @@
+﻿.gray {
+    background-color: #888888;
+}
+
+.lightblue {
+    background-color: #2B7AA3;
+}
+
+.tangray {
+    background-color: #d7cdc4;
+}
+
+.brown {
+    background-color: #773b31;
+}
+
+.darkgreen {
+    background-color: #15291e;
+}
+
+.orange {
+    background-color: #d25410;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.white {
+    background-color: #ffffff;
+}
+
+
+.twitterblue {
+    color:#1da1f2;
+}
+
+
+.instagramgradient {
+    background: -webkit-linear-gradient(#f9b747, #a12aaa);
+    color: #a12aaa;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.emailred {
+    background: -webkit-linear-gradient(#de5448, #e02828);
+    color: #de5448;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
