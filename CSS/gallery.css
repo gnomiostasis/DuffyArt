@@ -1,9 +1,7 @@
 ﻿body{
-    overflow: hidden;
 }
 #background_gallery {
     z-index:-1;
-    position: absolute;
     top: 0;
     left: 0; 
  
@@ -24,10 +22,10 @@
 }
 
 
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 2px;
+.galleryrow {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 2px;
 }
 
 /* Create four equal columns that sits next to each other */
